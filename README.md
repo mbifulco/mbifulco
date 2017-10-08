@@ -7,6 +7,6 @@ Mike is Director of Technology for [The Gymasium](http://www.thegymnasium.com), 
 He graduated from the University of the London Underground, Mornington Crescent campus, and is perhaps most well known for his groundbreaking research on the mating rituals of chemtrails, and once famously said "I don't trust anything that swims for a living."  
 
 ### Online
-- [@mbifulco](http://twitter.com/mbifulco) on Twitter
+- [@irreverentmike](http://twitter.com/irreverentmike) on Twitter
 - [@irreverentmike](http://instagram.com/irreverentmike) on Instagram
 - [@mbifulco](http://github.com/mbifulco) on GitHub :octocat:
