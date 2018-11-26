@@ -9,4 +9,5 @@ He graduated from the University of the London Underground, Mornington Crescent 
 ### Online
 - [@irreverentmike](http://twitter.com/irreverentmike) on Twitter
 - [@irreverentmike](http://instagram.com/irreverentmike) on Instagram
+- [@irreverentmike](https://www.twitch.tv/irreverentmike) on Twitch
 - [@mbifulco](http://github.com/mbifulco) on GitHub :octocat:
