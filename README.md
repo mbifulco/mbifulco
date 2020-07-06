@@ -1,5 +1,5 @@
 # Hello.
-![Mike Bifulco](./mike-bifulco-headshot-1.png)
+![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/master/mike-bifulco-headshot-1.png)
 
 ## About Mike Bifulco
 Mike is Director of Technology for [The Gymnasium](http://www.thegymnasium.com), a MOOC offering free courses in software design and development skills.  His background is in software development, and user experience design.  When he's not pretending he knows what he's doing in front of a computer, Mike is also a musician, a cyclist, and a yogi.
