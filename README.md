@@ -1,13 +1,18 @@
-# Hello.
+# Oh, Hello
 ![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/master/mike-bifulco-headshot-1.png)
 
-## About Mike Bifulco
-Mike is Director of Technology for [The Gymnasium](http://www.thegymnasium.com), a MOOC offering free courses in software design and development skills.  His background is in software development, and user experience design.  When he's not pretending he knows what he's doing in front of a computer, Mike is also a musician, a cyclist, and a yogi.
+## About me
+I am Technical Director for [The Gymnasium](http://www.thegymnasium.com), a MOOC offering free courses in software design and development skills.  My background is in software development, and user experience design. Some of my interests beyond building software are, bikes 🚴‍♀️, espresso ☕, and looking after the planet 🌍.   
 
-He graduated from the University of the London Underground, Mornington Crescent campus, and is perhaps most well known for his groundbreaking research on the mating rituals of chemtrails, and once famously said "I don't trust anything that swims for a living."  
+## Some more of my work
+- Writing about work/life: [https://mikebifulco.com](mikebifulco.com)
+- I'm Technical Director @ [https://thegymnasium.com](gymnasium)
+- Articles / books / podcasts @ [https://apisyouwonthate.com](apisyouwonthate.com)
+- Front end dev lead @ [https://rebuildblackbusiness.com](rebuildblackbusiness.com) 
 
-### Online
+### Other places to find me online
 - [@irreverentmike](http://twitter.com/irreverentmike) on Twitter
 - [@irreverentmike](http://instagram.com/irreverentmike) on Instagram
 - [@irreverentmike](https://www.twitch.tv/irreverentmike) on Twitch
-- [@mbifulco](http://github.com/mbifulco) on GitHub :octocat:
+- [@mbifulco](https://github.com/mbifulco) on GitHub :octocat:
+- [/in/mbifulco](https://linkedin.com/in/mbifulco) on LinkedIn
