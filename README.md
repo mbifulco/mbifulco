@@ -1,5 +1,5 @@
 # Oh, Hello
-![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/master/mike-bifulco-headshot-1.png)
+![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/master/banner.jpeg?raw=true)
 
 ## About me
 I am Technical Director for [The Gymnasium](http://www.thegymnasium.com), a MOOC offering free courses in software design and development skills.  My background is in software development, and user experience design. Some of my interests beyond building software are, bikes 🚴‍♀️, espresso ☕, and looking after the planet 🌍.   
