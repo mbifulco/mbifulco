@@ -21,7 +21,7 @@ I'd love to hear your thoughts on my thoughts - don't be shy!
 ## Some more of my work
 
 - Writing about work/life: [mikebifulco.com](https://mikebifulco.com)
-- I'm Technical Director @ [gymnasium](https://thegymnasium.com)
+- Check out some of the great free courses at my alma mater, [gymnasium](https://thegymnasium.com)
 - Articles / books / podcasts @ [apisyouwonthate.com](https://apisyouwonthate.com)
 - Front end dev lead @ [rebuildblackbusiness.com](https://rebuildblackbusiness.com)
 
