@@ -1,0 +1,3 @@
+# Full Bio
+
+Mike Bifulco ([@irreverentmike](https://twitter.com/irreverentmike)) is a devleoper, designer, and creator of things, working as a Developer Relations Engineer on the Google Assistant team. His background is in entrepreneurship, eser experience design, and software development. Mike is co-host of the APIs You Won't Hate Podcast, and co-author of Surviving Other People's APIs. Previously, he worked at Microsoft and Aquent Gymnasium, and was cofounder and CEO of smpl. Mike's interests include cycling, espresso, and promoting climate change awareness. Find more at [mikebifulco.com](https://mikebifulco.com).
