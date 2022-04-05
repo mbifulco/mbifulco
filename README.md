@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm Mike Bifulco. I'm a technologist, a designer, and a creator of things, working as a Developer Advocate at Google.
+I'm Mike Bifulco. I'm a technologist, a designer, and a creator of things, working as a Developer Advocate at Stripe.  This is my personal profile. You can find my Stripe-related GitHub over at [@mikeb-stripe](https://github.com/mikeb-stripe).
 
 I started this as a place to put together my thoughts on things that I think deserve a bigger voice than twitter or GitHub.
 
