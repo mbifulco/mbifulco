@@ -27,11 +27,15 @@ I'd love to hear your thoughts on my thoughts - don't be shy!
 
 ### Other places to find me online
 
-- [@irreverentmike](http://twitter.com/irreverentmike) on Twitter
+- <a rel="me" href="https://hachyderm.io/@irreverentmike">@irreverentmike@hachyderm.io</a> on Mastodon
+- [@mikebifulco](https://youtube.com/@mikebifulco) on YouTube
+- [@irreverentmike](https://tiktok.com/@irreverentmike) on TikTok
+- [Mike Bifulco](https://poly.me/irreverentmike) on Polywork
 - [@irreverentmike](http://instagram.com/irreverentmike) on Instagram
 - [@irreverentmike](https://www.twitch.tv/irreverentmike) on Twitch
 - [@mbifulco](https://github.com/mbifulco) on GitHub :octocat:
 - [/in/mbifulco](https://linkedin.com/in/mbifulco) on LinkedIn
+- ~[@irreverentmike](https://twitter.com/irreverentmike) on Twitter~
 
 ### (Obvious) Disclaimer
 
