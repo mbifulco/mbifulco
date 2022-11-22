@@ -27,7 +27,7 @@ I'd love to hear your thoughts on my thoughts - don't be shy!
 
 ### Other places to find me online
 
-- <a rel="me" href="https://hachyderm.io/@irreverentmike">@irreverentmike@hachyderm.io</a> on Mastodon
+- <a rel="me" href="https://hachyderm.io/@irreverentmike">@irreverentmike at hachyderm.io</a> on Mastodon
 - [@mikebifulco](https://youtube.com/@mikebifulco) on YouTube
 - [@irreverentmike](https://tiktok.com/@irreverentmike) on TikTok
 - [Mike Bifulco](https://poly.me/irreverentmike) on Polywork
