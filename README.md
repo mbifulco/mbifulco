@@ -17,8 +17,8 @@ I'm Mike Bifulco. I'm a developer advocate, writer, podcaster and serial startup
 
 ### Writing
 - 💌 [Tiny Improvements](https://mikebifulco.com/newsletter), my newsletter for product builders.
-- [mikebifulco.com](https://mikebifulco.com)
-- Articles / books  @ [apisyouwonthate.com](https://apisyouwonthate.com)
+- I publish technical tutorials and editorials sharing my perspective on life at [mikebifulco.com](https://mikebifulco.com)
+- Articles & books @ [apisyouwonthate.com](https://apisyouwonthate.com)
 
 ### 📹 Video 
 - [@mikebifulco](https://youtube.com/@mikebifulco) on YouTube
