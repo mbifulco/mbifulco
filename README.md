@@ -30,7 +30,6 @@ I'm Mike Bifulco. I'm a developer advocate, writer, podcaster and serial startup
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [APIs You Won't Hate](https://apisyouwonthate.com/podcast)
 
-
 ### Even more on Polywork
 
 - I keep a regularly updated list of highlights, opportunities, and job experience on my profile on Polywork: https://poly.me/irreverentmike
@@ -43,6 +42,6 @@ I'm Mike Bifulco. I'm a developer advocate, writer, podcaster and serial startup
 - [/in/mbifulco](https://linkedin.com/in/mbifulco) on LinkedIn
 - ~[@irreverentmike](https://twitter.com/irreverentmike) on Twitter~ see my article [Twitter & the perils of Obedience](https://mikebifulco.com/posts/twitter-and-the-perils-of-obedience) for more on why I left Twitter.
 
-### (Obvious) Disclaimer
+## (Obvious) Disclaimer
 
 Work and opinions expressed here are my own, and not those of my employer, my cats, or anyone else.
