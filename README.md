@@ -1,12 +1,8 @@
-# Oh, Hello
-
-![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/master/banner.jpeg?raw=true)
-
 ## About me
 
-I'm Mike Bifulco. I'm a technologist, a designer, and a creator of things, working as a Developer Advocate at Stripe.  This is my personal profile. You can find my Stripe-related GitHub over at [@mikeb-stripe](https://github.com/mikeb-stripe).
+![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/main/banner.jpeg?raw=true)
 
-I started this as a place to put together my thoughts on things that I think deserve a bigger voice than twitter or GitHub.
+I'm Mike Bifulco. I'm a technologist, a designer, and a creator of things, working as a Developer Advocate at Stripe.  This is my personal profile. You can find my Stripe-related GitHub over at [@mikeb-stripe](https://github.com/mikeb-stripe).
 
 My beliefs are always changing - but here's some things that are important to me:
 
@@ -18,7 +14,7 @@ My beliefs are always changing - but here's some things that are important to me
 
 I'd love to hear your thoughts on my thoughts - don't be shy!
 
-## Some more of my work
+## Places to find my work online
 
 - Writing about work/life: [mikebifulco.com](https://mikebifulco.com)
 - Check out some of the great free courses at my alma mater, [gymnasium](https://thegymnasium.com)
