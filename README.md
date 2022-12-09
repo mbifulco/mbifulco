@@ -2,33 +2,31 @@
 
 ![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/main/banner.jpeg?raw=true)
 
-I'm a developer advocate, writer, podcaster and serial startup founder. In the past I've worked for Google, Stripe, Microsoft, and Gymnasium. I'm cofounder of APIs You Won't Hate, the largest online community of API Developers. I'm happiest when I can help other people, and I love building exceptional experiences in unexpected places.
+I'm a developer advocate, writer, podcaster and serial startup founder. In the past I've worked for Google, Stripe, Microsoft, and Gymnasium. I'm cofounder of APIs You Won't Hate, the largest online community of API Developers. I'm driven by a desire to use my skills and privilege to help other people, and I love building exceptional experiences in unexpected places.
 
 ## My beliefs
 
-- I believe in the power of critical thought, and the scientific process.
-- I believe all people deserve fair and equitable access to all things. 🏳️‍🌈
-- I know that my knowledge is imperfect, and I can be blind to my privilege. I'm always willing to listen.
-- There is opportunity for design and technology to impact and benefit all facets of our life.
-- Humor is a universal language. I try not to take myself too seriously.
-
+I believe in the power of critical thought and the scientific process, as well as the concept that all people deserve fair and equitable access to all things. I am aware of my limitations and privilege, and am always open to listening to other perspectives. I also think that technology and design have the potential to benefit all aspects of our lives, and I try to maintain a sense of humor throughout it all.
 
 ## Find my work online
 
 ### Writing
+
 - 💌 [Tiny Improvements](https://mikebifulco.com/newsletter), my newsletter for product builders.
 - I publish technical tutorials and editorials sharing my perspective on life at [mikebifulco.com](https://mikebifulco.com)
 - Articles & books @ [apisyouwonthate.com](https://apisyouwonthate.com)
 
-### 📹 Video 
-- [@mikebifulco](https://youtube.com/@mikebifulco) on YouTube
-- [@irreverentmike](https://tiktok.com/@irreverentmike) on TikTok
-- [@irreverentmike](https://www.twitch.tv/irreverentmike) on Twitch
+### 📹 Video
+
+- [@mikebifulco](https://youtube.com/@mikebifulco) on YouTube - Livestreams of me building software, and in-depth tech tutorials, as well as short-form tips (60s or less).
+- [@irreverentmike](https://tiktok.com/@irreverentmike) on TikTok - I post tech tips, cycling journals, and videos about making espresso at home.
+- [@irreverentmike](https://www.twitch.tv/irreverentmike) on Twitch - Occasional livestreams of me working on tech projects, or playing music for friends & family.
 
 ### 🎙️ Podcasts
-- [Tiny Improvements](https://mikebifulco.com/podcast)
-- [Software Engineering Daily](https://softwareengineeringdaily.com/)
-- [APIs You Won't Hate](https://apisyouwonthate.com/podcast)
+
+- [Tiny Improvements](https://mikebifulco.com/podcast) - Short form audio essays (10m or less) where I share my philosophy on being a developer and living a meaningful life.
+- [Software Engineering Daily](https://softwareengineeringdaily.com/) - I am one of several hosts on this show, which is 1:1 Interviews with high-profile engineering leaders from across the industry.
+- [APIs You Won't Hate](https://apisyouwonthate.com/podcast) - I chat with my API-building pal Phil Sturgeon about designing, developing, and using APIs, climate responsibility, and cycling.
 
 ### Even more on Polywork
 
@@ -51,5 +49,4 @@ Work and opinions expressed here are my own, and not those of my employer, my ca
 Podcasts, keynotes, conventions, workshops, mentorship
 
 ## Let's talk!
-
-
+Drop me a line at hello@mikebifulco.com if you'd like to get in touch.
