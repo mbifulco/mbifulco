@@ -1,4 +1,4 @@
-## About me
+# About me
 
 ![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/main/banner.jpeg?raw=true)
 
