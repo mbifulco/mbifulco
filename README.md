@@ -2,7 +2,8 @@
 
 ![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/main/banner.jpeg?raw=true)
 
-Hi there, I'm Mike Bifulco. I live in Charlotte, North Carolina, where I work as the CTO of [Craftwork](https://craftwork.com). I'm also a developer advocate, writer, podcaster and serial startup founder. In the past I've worked for Google, Stripe, Microsoft, and Gymnasium. I'm cofounder of [APIs You Won't Hate](https://apisyouwonthate.com), the largest online community of API Developers.
+Hi there, I'm Mike Bifulco. I live in Charlotte, North Carolina, where I work as the CTO and co-founder of [Craftwork](https://craftwork.com). I'm also a developer advocate, writer, podcaster and serial startup founder. In the past I've worked for Google, Stripe, Microsoft, and Gymnasium. I'm cofounder of [APIs You Won't Hate](https://apisyouwonthate.com), a community for API Developers on the web. Mike's publishes a weekly newsletter for product builders called Tiny Improvements at [mikebifulco.com/newsletter](https://mikebifulco.com/newsletter).
+
 
 I'm driven by a desire to use my skills and privilege to help other people, and I love building exceptional experiences in unexpected places.
 
