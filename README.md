@@ -2,7 +2,7 @@
 
 ![Mike Bifulco](https://github.com/mbifulco/mbifulco/blob/main/banner.jpeg?raw=true)
 
-Hi there, I'm Mike Bifulco. I live in Charlotte, North Carolina, where I work as the CTO and co-founder of [Craftwork](https://craftwork.com). I'm also a developer advocate, writer, podcaster and serial startup founder. In the past I've worked for Google, Stripe, Microsoft, and Gymnasium. I'm cofounder of [APIs You Won't Hate](https://apisyouwonthate.com), a community for API Developers on the web. Mike's publishes a weekly newsletter for product builders called Tiny Improvements at [mikebifulco.com/newsletter](https://mikebifulco.com/newsletter).
+Hi there, I'm Mike Bifulco. I live in Charlotte, North Carolina, where I work as the CTO and co-founder of [Craftwork](https://craftwork.com), a Y Combinator S23 company. I'm also a developer advocate, writer, podcaster and serial startup founder. In the past I've worked for Google, Stripe, Microsoft, and Gymnasium. I'm cofounder of [APIs You Won't Hate](https://apisyouwonthate.com), a community for API Developers on the web. Mike's publishes a weekly newsletter for product builders called Tiny Improvements at [mikebifulco.com/newsletter](https://mikebifulco.com/newsletter).
 
 
 I'm driven by a desire to use my skills and privilege to help other people, and I love building exceptional experiences in unexpected places.
@@ -28,15 +28,11 @@ I believe in the power of critical thought and the scientific process, as well a
 ### 🎙️ Podcasts
 
 - [Tiny Improvements](https://mikebifulco.com/podcast) - Short form audio essays (10m or less) where I share my philosophy on being a developer and living a meaningful life.
-- [Software Engineering Daily](https://softwareengineeringdaily.com/) - I am one of several hosts on this show, which is 1:1 Interviews with high-profile engineering leaders from across the industry.
 - [APIs You Won't Hate](https://apisyouwonthate.com/podcast) - I chat with my API-building pal Phil Sturgeon about designing, developing, and using APIs, climate responsibility, and cycling.
-
-### Even more on Polywork
-
-- I keep a regularly updated list of highlights, opportunities, and job experience on my profile on Polywork: https://poly.me/irreverentmike
 
 ## Other places to find me online
 
+- [@mikebifulco.com](https://bsky.app/profile/mikebifulco.com) on BlueSky <-- I post here the most
 - <a rel="me" href="https://hachyderm.io/@irreverentmike">@irreverentmike at hachyderm.io</a> on Mastodon
 - [@irreverentmike](http://instagram.com/irreverentmike) on Instagram
 - [@mbifulco](https://github.com/mbifulco) on GitHub
