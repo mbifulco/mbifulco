@@ -37,7 +37,7 @@ I believe in the power of critical thought and the scientific process, as well a
 - [@irreverentmike](http://instagram.com/irreverentmike) on Instagram
 - [@mbifulco](https://github.com/mbifulco) on GitHub
 - [/in/mbifulco](https://linkedin.com/in/mbifulco) on LinkedIn
-- ~~[@irreverentmike](https://twitter.com/irreverentmike) on Twitter~~ see my article [Twitter & the perils of Obedience](https://mikebifulco.com/posts/twitter-and-the-perils-of-obedience) for more on why I left Twitter.
+- Twitter: see my article [Twitter & the perils of Obedience](https://mikebifulco.com/posts/twitter-and-the-perils-of-obedience) for more on why I left Twitter.
 
 ## (Obvious) Disclaimer
 
