@@ -32,7 +32,7 @@ I believe in the power of critical thought and the scientific process, as well a
 
 ## Other places to find me online
 
-- [@mikebifulco.com](https://bsky.app/profile/mikebifulco.com) on BlueSky <-- I post here the most
+- [@mikebifulco.com](https://bsky.app/profile/mikebifulco.com) on BlueSky 👈 I post here the most
 - <a rel="me" href="https://hachyderm.io/@irreverentmike">@irreverentmike at hachyderm.io</a> on Mastodon
 - [@irreverentmike](http://instagram.com/irreverentmike) on Instagram
 - [@mbifulco](https://github.com/mbifulco) on GitHub
