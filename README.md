@@ -38,6 +38,7 @@ I believe in the power of critical thought and the scientific process, as well a
 - [@mbifulco](https://github.com/mbifulco) on GitHub
 - [/in/mbifulco](https://linkedin.com/in/mbifulco) on LinkedIn
 - Twitter: see my article [Twitter & the perils of Obedience](https://mikebifulco.com/posts/twitter-and-the-perils-of-obedience) for more on why I left Twitter.
+- [🎸 Guithub](https://guithub.org) - I built the guitar tuner I always wanted
 
 ## (Obvious) Disclaimer
 
